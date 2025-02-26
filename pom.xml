@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.example.spring.mvc</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>home-work-spring-mvc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>home-work-spring-mvc</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
